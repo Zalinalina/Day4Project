@@ -1,1 +1,3 @@
 This is the file added directly
+
+My co - worker adding changes and pushing to remote
